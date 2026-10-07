@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("logo.jpg", width=150)
 
 st.set_page_config(page_title="Tính Lãi Gửi Tiết Kiệm", page_icon="💰", layout="centered")
 
