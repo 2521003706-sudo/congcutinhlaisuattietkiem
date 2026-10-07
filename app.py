@@ -4,6 +4,7 @@ st.image("logo.jpg", width=150)
 st.set_page_config(page_title="Tính Lãi Gửi Tiết Kiệm", page_icon="💰", layout="centered")
 
 st.title("💰 Ứng Dụng Tính Lãi Gửi Tiết Kiệm")
+st.caption("👨‍💻 Thực hiện bởi: **Lê Thái Thanh Hải** | Email: thailehai49@gmail.com")
 st.write("Nhập thông tin tiền gửi của bạn để tính toán tiền lãi theo lãi đơn và lãi kép.")
 
 # --- NHẬP THÔNG TIN TỪ NGUỜI DÙNG ---
